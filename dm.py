@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from InstagramAPI import https://i.instagram.com/api/v1/
+from https://i.instagram.com/api/v1/ import InstagramAPI
 from getID import get_id
 import os
 import json
